@@ -50,6 +50,8 @@ website/
    ```
 4. Upload your weights as src\saved_models\20_net_G.pth
 
+5. Change server.js python exec path to local path
+
 ## Usage
 
 1. Start the server:
