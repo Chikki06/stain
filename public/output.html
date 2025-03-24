@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Processed Image</title>
+    <link href="tailwind.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container text-center">
+        <h2>Processed Image</h2>
+        <div class="timing-info mb-4">
+            <p>Model Processing Time: <span id="modelTime">0</span> seconds</p>
+            <p>TIFF Write Time: <span id="tiffTime">0</span> seconds</p>
+            <p>PNG Write Time: <span id="pngTime">0</span> seconds</p>
+            <p>Total Processing Time: <span id="stainTime">0</span> seconds</p>
+        </div>
+        <div class="image-container mb-4">
+            <img id="output-image" alt="Processed Image" class="mx-auto d-block img-fluid">
+        </div>
+        <div class="btn-group">
+            <button id="download-png" class="btn btn-primary mr-2">Download PNG</button>
+            <button id="download-tiff" class="btn btn-primary">Download TIFF</button>
+        </div>
+        <a href="/success" class="btn btn-secondary d-block mt-3">Back to Selection</a>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Parse URL parameters
+            const params = new URLSearchParams(window.location.search);
+            
+            // Update timing values
+            const modelTime = parseFloat(params.get('modelTime')) || 0;
+            const tiffTime = parseFloat(params.get('tiffTime')) || 0;
+            const pngTime = parseFloat(params.get('pngTime')) || 0;
+            const stainTime = parseFloat(params.get('stainTime')) || 0;
+            
+            document.getElementById('modelTime').textContent = modelTime.toFixed(2);
+            document.getElementById('tiffTime').textContent = tiffTime.toFixed(2);
+            document.getElementById('pngTime').textContent = pngTime.toFixed(2);
+            document.getElementById('stainTime').textContent = stainTime.toFixed(2);
+            
+            // Get file name components from URL parameters
+            const folderName = params.get('folderName');
+            const timestamp = params.get('timestamp');
+            const x1 = params.get('x1');
+            const y1 = params.get('y1');
+            const x2 = params.get('x2');
+            const y2 = params.get('y2');
+            
+            // Construct filename using the same pattern as in testcrop.py
+            const fileName = `${folderName}_${timestamp}_${x1}_${y1}_${x2}_${y2}`;
+            
+            // Display the output image
+            const imgElement = document.getElementById('output-image');
+            imgElement.src = `/files/output-pngs/${fileName}.png`;
+            imgElement.style.display = 'block';
+            imgElement.onerror = function() {
+                console.error('Error loading image:', this.src);
+                this.alt = 'Error loading image';
+            };
+
+            // Update download buttons to use the same filename pattern
+            document.getElementById('download-png').addEventListener('click', () => {
+                window.location.href = `/download/png/${fileName}.png`;
+            });
+
+            document.getElementById('download-tiff').addEventListener('click', () => {
+                window.location.href = `/download/tiff/${fileName}.tif`;
+            });
+        });
+    </script>
+</body>
+</html>

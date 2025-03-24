@@ -1,0 +1,120 @@
+body {
+    background: #000000;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    max-width: 500px;
+    padding: 20px;
+    background-color: #1e1e1e;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.btn-primary {
+    background-color: #ff0000;
+    border-color: #ff0000;
+    border-radius: 50px;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #cc0000;
+    border-color: #cc0000;
+    box-shadow: 0 0 10px #ff0000;
+}
+
+#progressContainer {
+    width: 100%;
+    background-color: #f3f3f3;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+.progress {
+    height: 30px;
+    background-color: #333333;
+    width: 100%; /* Ensure the progress bar container has a fixed width */
+    overflow: hidden; /* Handle text overflow */
+}
+
+#progressBar {
+    width: 0;
+    height: 30px;
+    background-color: #4caf50;
+}
+
+.progress-bar {
+    background-color: #ff0000;
+    line-height: 30px;
+    white-space: nowrap; /* Prevent text from wrapping */
+    height: 30px; /* Set a fixed height for the progress bar */
+}
+
+#message {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.9);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.overlay-content {
+    text-align: center;
+    background: rgba(30, 30, 30, 0.95);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(255, 0, 0, 0.3);
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    display: block;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+    cursor: crosshair;
+}
+
+.selection-box {
+    position: absolute;
+    border: 2px solid #ff0000;
+    background-color: rgba(255, 0, 0, 0.2);
+    pointer-events: none;
+}
+
+.stored-selection {
+    position: absolute;
+    border: 2px solid #00ff00;
+    background-color: rgba(0, 255, 0, 0.2);
+    pointer-events: none;
+}

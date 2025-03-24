@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Successful</title>
+    <link href="tailwind.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main class="container text-center">
+        <h1 class="text-2xl font-bold mb-4">File Upload Successful</h1>
+        <p class="mb-4">Your files have been uploaded successfully.</p>
+        <p>Upload Time: <span id="uploadTime">0</span> seconds</p>
+        <p>Image Size: <span id="imageSize">0</span> MB</p>
+        <p>PNG Process Time: <span id="pngProcessTime">0</span> seconds</p>
+        
+        <div class="instructions mb-4">
+            <h3 class="font-bold mb-2">How to Select a Patch:</h3>
+            <ol class="text-left mx-auto" style="max-width: 500px;">
+                <li> Click anywhere on the image to form your first corner of your patch</li>
+                <li> Move your mouse around to define the size of your patch</li>
+                <li> Click again to define the second corner and finish making your rectangle</li>
+                <li> Check if your patch is correct and click the "Stain IR image" button or cancel and remake your rectangle</li>
+            </ol>
+        </div>
+
+        <div class="image-container">
+            <img id="image" src="" alt="Band Image">
+            <div id="selection-box" class="selection-box" style="display: none;"></div>
+        </div>
+        <div id="coordinates-display" class="mt-3">
+            <p>Selected Area Coordinates: <span id="coords">None</span></p>
+        </div>
+        <div id="selection-buttons" class="mt-3" style="display: none;">
+            <button id="stainButton" class="btn btn-success">
+                Stain IR image ✓
+            </button>
+            <button id="cancelButton" class="btn btn-danger">
+                Cancel
+            </button>
+        </div>
+        <a href="/" class="btn btn-primary mt-3">Go back to the homepage</a>
+    </main>
+    <div class="overlay" id="overlay" style="display: none;">
+        <div class="overlay-content">
+            <h2 id="overlay-text">IR staining in progress...</h2>
+            <div id="progress-container" class="progress mt-4">
+                <div id="progress-bar" class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+        </div>
+    </div>
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        const socket = io();
+        socket.emit('log', 'Client connected to success.html');
+
+        // Function to get query parameters from the URL
+        function getQueryParams() {
+            const params = {};
+            const queryString = window.location.search.substring(1);
+            const regex = /([^&=]+)=([^&]*)/g;
+            let m;
+            while (m = regex.exec(queryString)) {
+                params[decodeURIComponent(m[1])] = decodeURIComponent(m[2]);
+            }
+            return params;
+        }
+
+        const params = getQueryParams();
+        const uploadTime = params.uploadTime;
+        const uploadSize = params.uploadSize;
+        const outputPath = params.outputPath;
+        const pngProcessTime = params.pngProcessTime;
+        const serverUrl = params.serverUrl;
+
+        console.log(`Upload Time: ${uploadTime}`);
+        console.log(`Upload Size: ${uploadSize}`);
+        console.log(`Output Path: ${outputPath}`);
+        console.log(`PNG Process Time: ${pngProcessTime}`);
+
+        // Use serverUrl if needed
+        if (serverUrl) {
+            console.log(`Server URL: ${serverUrl}`);
+        } else {
+            console.log('Server URL not provided');
+        }
+
+        if (uploadTime) {
+            document.getElementById('uploadTime').textContent = uploadTime;
+        } else {
+            document.getElementById('uploadTime').textContent = 'N/A';
+        }
+
+        if (uploadSize) {
+            const sizeInMB = (parseFloat(uploadSize) / (1024 * 1024)).toFixed(2);
+            document.getElementById('imageSize').textContent = sizeInMB;
+        } else {
+            document.getElementById('imageSize').textContent = 'N/A';
+        }
+
+        if (outputPath) {
+            // Extract just the filename from the full path
+            const filename = outputPath.split(/[\/\\]/).pop();
+            // Construct the correct path to the image
+            const imagePath = `/files/pngs/${filename}`;
+            document.getElementById('image').src = imagePath;
+            document.getElementById('image').style.display = 'block';
+        } else {
+            document.getElementById('image').style.display = 'none';
+            document.getElementById('image').alt = 'Error fetching image';
+        }
+
+        if (pngProcessTime) {
+            document.getElementById('pngProcessTime').textContent = pngProcessTime;
+        } else {
+            document.getElementById('pngProcessTime').textContent = 'N/A';
+        }
+
+        // Selection functionality
+        const imageContainer = document.querySelector('.image-container');
+        const selectionBox = document.getElementById('selection-box');
+        const selectionButtons = document.getElementById('selection-buttons');
+        const stainButton = document.getElementById('stainButton');
+        const cancelButton = document.getElementById('cancelButton');
+        let isFirstClick = true;
+        let firstClickX, firstClickY;
+        let currentSelection = null;
+        let currentOperation = null;
+
+        imageContainer.addEventListener('mousedown', handleClick);
+        imageContainer.addEventListener('mousemove', updatePreview);
+        
+        stainButton.addEventListener('click', async () => {
+            if (!currentSelection) return;
+            
+            socket.emit('log', 'Stain button clicked');
+            
+            // Show the loading overlay immediately when starting stain process
+            const overlay = document.getElementById('overlay');
+            overlay.style.display = 'flex';
+            document.getElementById('overlay-text').textContent = 'IR staining in progress...';
+            document.getElementById('progress-container').style.display = 'block';
+            
+            const rect = imageContainer.getBoundingClientRect();
+            const imageRect = document.getElementById('image').getBoundingClientRect();
+            
+            // Get coordinates relative to the PNG image
+            const pngCoordinates = {
+                x1: Math.round((parseFloat(currentSelection.style.left) - (imageRect.left - rect.left)) / imageRect.width * 1000),
+                y1: Math.round((parseFloat(currentSelection.style.top) - (imageRect.top - rect.top)) / imageRect.height * 1000),
+                x2: Math.round((parseFloat(currentSelection.style.left) - (imageRect.left - rect.left) + parseFloat(currentSelection.style.width)) / imageRect.width * 1000),
+                y2: Math.round((parseFloat(currentSelection.style.top) - (imageRect.top - rect.top) + parseFloat(currentSelection.style.height)) / imageRect.height * 1000),
+                imageWidth: imageRect.width,
+                imageHeight: imageRect.height
+            };
+
+            try {
+                const controller = new AbortController();
+                const signal = controller.signal;
+                
+                // Store abort controller for cancel functionality
+                window.currentController = controller;
+
+                const response = await fetch('/stain', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ coordinates: pngCoordinates }),
+                    signal
+                });
+
+                if (!response.ok) throw new Error('Network response was not ok');
+                
+                const data = await response.json();
+                if (data.success && data.redirect) {
+                    window.location.href = data.redirect;
+                } else {
+                    document.getElementById('overlay').style.display = 'none';
+                    alert('Error processing image');
+                }
+            } catch (error) {
+                if (error.name === 'AbortError') {
+                    console.log('Operation cancelled');
+                } else {
+                    console.error('Error:', error);
+                    alert('Error processing image');
+                }
+                document.getElementById('overlay').style.display = 'none';
+            }
+        });
+
+        cancelButton.addEventListener('click', () => {
+            // Remove the current selection
+            if (currentSelection) {
+                currentSelection.remove();
+                currentSelection = null;
+            }
+            // Reset coordinates display
+            document.getElementById('coords').textContent = 'None';
+            // Hide buttons
+            selectionButtons.style.display = 'none';
+            // Reset selection state
+            isFirstClick = true;
+            selectionBox.style.display = 'none';
+        });
+
+        function handleClick(e) {
+            if (currentSelection) {
+                return; // Prevent new selection if one already exists
+            }
+
+            const rect = imageContainer.getBoundingClientRect();
+            const imageRect = document.getElementById('image').getBoundingClientRect();
+
+            // Ensure click is within image bounds
+            const clickX = Math.min(Math.max(e.clientX - imageRect.left, 0), imageRect.width);
+            const clickY = Math.min(Math.max(e.clientY - imageRect.top, 0), imageRect.height);
+
+            if (isFirstClick) {
+                firstClickX = clickX;
+                firstClickY = clickY;
+                
+                selectionBox.style.display = 'block';
+                selectionBox.style.left = (clickX + imageRect.left - rect.left) + 'px';
+                selectionBox.style.top = (clickY + imageRect.top - rect.top) + 'px';
+                selectionBox.style.width = '0';
+                selectionBox.style.height = '0';
+                
+                isFirstClick = false;
+            } else {
+                const coordinates = {
+                    x1: Math.min(firstClickX, clickX),
+                    y1: Math.min(firstClickY, clickY),
+                    x2: Math.max(firstClickX, clickX),
+                    y2: Math.max(firstClickY, clickY)
+                };
+
+                // Create permanent selection box
+                const storedBox = document.createElement('div');
+                storedBox.className = 'stored-selection';
+                storedBox.style.left = (coordinates.x1 + imageRect.left - rect.left) + 'px';
+                storedBox.style.top = (coordinates.y1 + imageRect.top - rect.top) + 'px';
+                storedBox.style.width = (coordinates.x2 - coordinates.x1) + 'px';
+                storedBox.style.height = (coordinates.y2 - coordinates.y1) + 'px';
+                imageContainer.appendChild(storedBox);
+                currentSelection = storedBox;
+
+                // Update coordinates display with normalized values (0-1000)
+                const normalizedCoords = {
+                    x1: Math.round((coordinates.x1 / imageRect.width) * 1000),
+                    y1: Math.round((coordinates.y1 / imageRect.height) * 1000),
+                    x2: Math.round((coordinates.x2 / imageRect.width) * 1000),
+                    y2: Math.round((coordinates.y2 / imageRect.height) * 1000)
+                };
+
+                document.getElementById('coords').textContent = 
+                    `(${normalizedCoords.x1}, ${normalizedCoords.y1}) to ` +
+                    `(${normalizedCoords.x2}, ${normalizedCoords.y2})`;
+
+                // Show buttons
+                selectionButtons.style.display = 'block';
+
+                // Hide preview box
+                selectionBox.style.display = 'none';
+                isFirstClick = true;
+            }
+        }
+
+        function updatePreview(e) {
+            if (isFirstClick) return;
+
+            const rect = imageContainer.getBoundingClientRect();
+            const imageRect = document.getElementById('image').getBoundingClientRect();
+
+            // Ensure preview stays within image bounds
+            const currentX = Math.min(Math.max(e.clientX - imageRect.left, 0), imageRect.width);
+            const currentY = Math.min(Math.max(e.clientY - imageRect.top, 0), imageRect.height);
+            
+            const width = currentX - firstClickX;
+            const height = currentY - firstClickY;
+            
+            selectionBox.style.width = Math.abs(width) + 'px';
+            selectionBox.style.height = Math.abs(height) + 'px';
+            selectionBox.style.left = ((width < 0 ? currentX : firstClickX) + imageRect.left - rect.left) + 'px';
+            selectionBox.style.top = ((height < 0 ? currentY : firstClickY) + imageRect.top - rect.top) + 'px';
+        }
+    </script>
+</body>
+</html>

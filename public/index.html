@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Folder</title>
+    <link href="tailwind.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container text-center">
+        <h2>Upload Folder</h2>
+        <form id="upload-form" action="/upload" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="folder">Select Folder:</label>
+                <input type="file" id="folder" name="upload" webkitdirectory directory multiple class="form-control">
+            </div>
+            <button type="submit" class="btn btn-primary btn-block">Upload</button>
+            <p class="mt-2">Note: Maximum upload size is 15GB.</p>
+        </form>
+        <img id="image" src="/image" alt="Band Image" class="d-none mt-4">
+    </div>
+
+    <div class="overlay" id="overlay">
+        <div class="overlay-content">
+            <h2 id="overlay-text">Folder upload in progress...</h2>
+            <div id="progress-container" class="progress mt-4">
+                <div id="progress-bar" class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">0%</div>
+            </div>
+            <p id="message" class="text-center"></p>
+        </div>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        const socket = io();
+
+        document.getElementById('upload-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            socket.emit('log', 'Upload button clicked');
+            document.getElementById('overlay').style.display = 'flex';
+
+            const formData = new FormData(this);
+            const xhr = new XMLHttpRequest();
+            let totalSize = 0;
+
+            for (let pair of formData.entries()) {
+                if (pair[1] instanceof File) {
+                    totalSize += pair[1].size;
+                }
+            }
+
+            xhr.open('POST', '/upload', true);
+
+            xhr.upload.onprogress = function(event) {
+                if (event.lengthComputable) {
+                    const progress = Math.floor((event.loaded / event.total) * 100);
+                    const progressBar = document.getElementById('progress-bar');
+                    progressBar.style.width = progress + '%';
+                    progressBar.innerText = progress + '%';
+
+                    if (progress === 100) {
+                        document.getElementById('overlay-text').innerText = 'PNG processing...';
+                        document.getElementById('progress-container').style.display = 'block';
+                        document.getElementById('progress-bar').style.width = '100%';
+                        document.getElementById('progress-bar').innerText = '100%';
+                    }
+                }
+            };
+
+            xhr.onload = function() {
+                if (xhr.status === 200 || xhr.status === 302) {
+                    const redirectUrl = xhr.responseURL || '/success';
+                    window.location.href = redirectUrl;
+                } else {
+                    document.getElementById('message').innerText = 'Error during upload';
+                    document.getElementById('overlay').style.display = 'none';
+                    socket.emit('log', 'Error during upload');
+                }
+            };
+
+            xhr.onerror = function() {
+                document.getElementById('message').innerText = 'Network error occurred';
+                document.getElementById('overlay').style.display = 'none';
+                socket.emit('log', 'Network error occurred');
+            };
+
+            xhr.send(formData);
+        });
+    </script>
+</body>
+</html>
