@@ -1,0 +1,1148 @@
+{"level":"info","message":"Created upload directory:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"Error generating image: ENOENT: no such file or directory, open 'C:\\Users\\hiidk\\Documents\\Research\\website\\files\\your_bsq_file.bsq'","path":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\your_bsq_file.bsq","stack":"Error: ENOENT: no such file or directory, open 'C:\\Users\\hiidk\\Documents\\Research\\website\\files\\your_bsq_file.bsq'","syscall":"open"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\1d02c1e5a3446ee0255f83b00","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\1d02c1e5a3446ee0255f83b01","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":".hdr file saved successfully at:"}
+{"level":"info","message":"Upload Time: 44.268 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"code":"ERR_INVALID_ARG_TYPE","level":"error","message":"Error generating image: The \"path\" argument must be of type string or an instance of Buffer or URL. Received undefined","stack":"TypeError [ERR_INVALID_ARG_TYPE]: The \"path\" argument must be of type string or an instance of Buffer or URL. Received undefined\n    at Object.open (node:fs:534:10)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:44:327\n    at new Promise (<anonymous>)\n    at s (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:44:297)\n    at new o (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:44:554)\n    at a (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:44:773)\n    at Object.x [as fromFile] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:50:9518)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:209:36\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client disconnected"}
+{"code":"ERR_INVALID_ARG_TYPE","level":"error","message":"Error generating image: The \"path\" argument must be of type string or an instance of Buffer or URL. Received undefined","stack":"TypeError [ERR_INVALID_ARG_TYPE]: The \"path\" argument must be of type string or an instance of Buffer or URL. Received undefined\n    at Object.open (node:fs:534:10)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:44:327\n    at new Promise (<anonymous>)\n    at s (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:44:297)\n    at new o (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:44:554)\n    at a (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:44:773)\n    at Object.x [as fromFile] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:50:9518)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:209:36\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\e35a4bcae84937f1996edf700","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\e35a4bcae84937f1996edf701","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":".hdr file saved successfully at:"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client disconnected"}
+{"code":"ERR_INVALID_ARG_TYPE","level":"error","message":"Error generating image: The \"path\" argument must be of type string or an instance of Buffer or URL. Received undefined","stack":"TypeError [ERR_INVALID_ARG_TYPE]: The \"path\" argument must be of type string or an instance of Buffer or URL. Received undefined\n    at Object.open (node:fs:534:10)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:44:327\n    at new Promise (<anonymous>)\n    at s (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:44:297)\n    at new o (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:44:554)\n    at a (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:44:773)\n    at Object.x [as fromFile] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:50:9518)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:215:36\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\767825a1d11b947930303a500","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\767825a1d11b947930303a501","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":".hdr file saved successfully at:"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"error","message":"Error generating image: bsqFilePath is not defined in session","stack":"Error: bsqFilePath is not defined in session\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:216:19\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:518:28)"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: bsqFilePath is not defined in session","stack":"Error: bsqFilePath is not defined in session\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:216:19\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:518:28)"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: bsqFilePath is not defined in session","stack":"Error: bsqFilePath is not defined in session\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:216:19\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:518:28)"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: bsqFilePath is not defined in session","stack":"Error: bsqFilePath is not defined in session\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:216:19\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:518:28)"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\df2cf649893e6cd9dd2a79b00","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\df2cf649893e6cd9dd2a79b01","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":".hdr file saved successfully at:"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: bsqFilePath is not defined in session","stack":"Error: bsqFilePath is not defined in session\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:222:19\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:518:28)"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: bsqFilePath is not defined in session","stack":"Error: bsqFilePath is not defined in session\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:222:19\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:518:28)"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\a2bcbba186f3527a4f5cf8800","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\a2bcbba186f3527a4f5cf8801","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":".hdr file saved successfully at:"}
+{"level":"info","message":"Upload Time: 38.579 seconds, Size: 8872963037 bytes"}
+{"level":"error","message":"Error reading .bsq file: Invalid byte order value.","stack":"TypeError: Invalid byte order value.\n    at F.fromSource (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:50:7732)"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: bsqFilePath is not defined in session","stack":"Error: bsqFilePath is not defined in session\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:222:19\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:518:28)"}
+{"level":"info","message":"Client connected"}
+{"level":"error","message":"Error generating image: bsqFilePath is not defined in session","stack":"Error: bsqFilePath is not defined in session\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:222:19\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:518:28)"}
+{"level":"info","message":"Client connected"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"error","message":"Error generating image: bsqFilePath is not defined in session","stack":"Error: bsqFilePath is not defined in session\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:222:19\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:518:28)"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: bsqFilePath is not defined in session","stack":"Error: bsqFilePath is not defined in session\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:222:19\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:518:28)"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: bsqFilePath is not defined in session","stack":"Error: bsqFilePath is not defined in session\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:222:19\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:518:28)"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: bsqFilePath is not defined in session","stack":"Error: bsqFilePath is not defined in session\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:222:19\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:518:28)"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: bsqFilePath is not defined in session","stack":"Error: bsqFilePath is not defined in session\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:222:19\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:518:28)"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: bsqFilePath is not defined in session","stack":"Error: bsqFilePath is not defined in session\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:222:19\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:518:28)"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"error","message":"Error generating image: bsqFilePath is not defined in session","stack":"Error: bsqFilePath is not defined in session\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:227:19\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:518:28)"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: bsqFilePath is not defined in session","stack":"Error: bsqFilePath is not defined in session\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:227:19\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:518:28)"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\33913e758781b78e652f7c000","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\33913e758781b78e652f7c001","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":"Upload Time: 73.634 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: Invalid byte order value.","stack":"TypeError: Invalid byte order value.\n    at F.fromSource (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:50:7732)\n    at async C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:235:22"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: Invalid byte order value.","stack":"TypeError: Invalid byte order value.\n    at F.fromSource (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:50:7732)\n    at async C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:235:22"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\f6e8d1b0e3af27563911ba300","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\f6e8d1b0e3af27563911ba301","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":"Upload Time: 49 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: Invalid byte order value.","stack":"TypeError: Invalid byte order value.\n    at F.fromSource (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:50:7732)\n    at async C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:240:22"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\b8d0e29ff79fdde74d0c88000","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\b8d0e29ff79fdde74d0c88001","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":"Upload Time: 61.81 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: Invalid byte order value.","stack":"TypeError: Invalid byte order value.\n    at F.fromSource (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:50:7732)\n    at async C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:256:22"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: Invalid byte order value.","stack":"TypeError: Invalid byte order value.\n    at F.fromSource (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:50:7732)\n    at async C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:256:22"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\58b575daac663728a1284ab00","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\58b575daac663728a1284ab01","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":"Upload Time: 71.287 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: Invalid byte order value.","stack":"TypeError: Invalid byte order value.\n    at F.fromSource (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:50:7732)\n    at async C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:254:22"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: Invalid byte order value.","stack":"TypeError: Invalid byte order value.\n    at F.fromSource (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:50:7732)\n    at async C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:254:22"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\fe2b4d077d0264b51902f9f00","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\fe2b4d077d0264b51902f9f01","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":"Upload Time: 72.474 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: Invalid byte order value.","stack":"TypeError: Invalid byte order value.\n    at F.fromSource (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:50:7732)\n    at async C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:249:22"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"error","message":"Error generating image: Invalid byte order value.","stack":"TypeError: Invalid byte order value.\n    at F.fromSource (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:50:7732)\n    at async C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:249:22"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\bfc6003049d914b2ad39a6f00","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\bfc6003049d914b2ad39a6f01","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":"Upload Time: 71.801 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\b5f1bee28b1f4022614489100","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\b5f1bee28b1f4022614489101","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":"Upload Time: 70.577 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"error","message":"Error generating image: Invalid byte order value.","stack":"TypeError: Invalid byte order value.\n    at F.fromSource (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:50:7732)\n    at async C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:247:22"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\9adc9e5fbb0a8d80dfa393300","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\9adc9e5fbb0a8d80dfa393301","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":"Upload Time: 41.634 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: Invalid byte order value.","stack":"TypeError: Invalid byte order value.\n    at F.fromSource (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:50:7732)\n    at async C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:247:22"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Unauthorized access to image endpoint"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\9a94108049db130dc9e5dbd00","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\9a94108049db130dc9e5dbd01","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":"Upload Time: 55.965 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error generating image: Invalid byte order value.","stack":"TypeError: Invalid byte order value.\n    at F.fromSource (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\geotiff\\dist-node\\geotiff.js:50:7732)\n    at async C:\\Users\\hiidk\\Documents\\Research\\website\\src\\server.js:247:22"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\0efa59bcaa86c98f728fed700","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\0efa59bcaa86c98f728fed701","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":"Upload Time: 68.353 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"error","message":"Error executing Python script: Command failed: c:\\conda\\envs\\research\\python.exe C:\\Users\\hiidk\\Documents\\Research\\website\\src\\convert_bsq_to_png.py C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742439312933 C:\\Users\\hiidk\\Documents\\Research\\website\\public\nThe system cannot find the path specified.\r\n"}
+{"level":"error","message":"Error executing Python script: Command failed: c:\\conda\\envs\\research\\python.exe C:\\Users\\hiidk\\Documents\\Research\\website\\src\\convert_bsq_to_png.py C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742439312933 C:\\Users\\hiidk\\Documents\\Research\\website\\public\nThe system cannot find the path specified.\r\n"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"error","message":"Error executing Python script: Command failed: C:\\Users\\hiidk\\.conda\\envs\\research\\python.exe C:\\Users\\hiidk\\Documents\\Research\\website\\src\\convert_bsq_to_png.py undefined C:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\nTraceback (most recent call last):\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\convert_bsq_to_png.py\", line 39, in <module>\r\n    convert_bsq_to_png(bsq_dir, output_dir)\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\convert_bsq_to_png.py\", line 7, in convert_bsq_to_png\r\n    files = os.listdir(bsq_dir)\r\nFileNotFoundError: [WinError 3] The system cannot find the path specified: 'undefined'\r\n"}
+{"level":"error","message":"Error executing Python script: Command failed: C:\\Users\\hiidk\\.conda\\envs\\research\\python.exe C:\\Users\\hiidk\\Documents\\Research\\website\\src\\convert_bsq_to_png.py undefined C:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\nTraceback (most recent call last):\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\convert_bsq_to_png.py\", line 39, in <module>\r\n    convert_bsq_to_png(bsq_dir, output_dir)\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\convert_bsq_to_png.py\", line 7, in convert_bsq_to_png\r\n    files = os.listdir(bsq_dir)\r\nFileNotFoundError: [WinError 3] The system cannot find the path specified: 'undefined'\r\n"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\da565411cb1c27ac1f878b300","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\da565411cb1c27ac1f878b301","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":"Upload Time: 82.474 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\b275f7acee9e32e7f701baf00","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\b275f7acee9e32e7f701baf01","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":"Upload Time: 82.715 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Running Python script to convert BSQ to PNG for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742440518388"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Running Python script to convert BSQ to PNG for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742440518388"}
+{"level":"info","message":"Python script stdout: Starting conversion for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742440518388\r\nPNG file created at: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345.png\r\nConversion completed successfully.\r\n"}
+{"level":"error","message":"PNG file was not created."}
+{"level":"info","message":"Python script stdout: Starting conversion for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742440518388\r\nPNG file created at: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345.png\r\nConversion completed successfully.\r\n"}
+{"level":"error","message":"PNG file was not created."}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\6708819a60fbc268662ed9000","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\6708819a60fbc268662ed9001","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":"Upload Time: 82.648 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\66690af9fb4a1e2e973049200","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\66690af9fb4a1e2e973049201","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":"Upload Time: 82.454 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\93aa9ac8d2be40c632e788400","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\93aa9ac8d2be40c632e788401","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":"Upload Time: 82.44 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Python script stdout: Starting conversion for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742444944245\r\nPNG file created at: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345.png\r\nConversion completed successfully.\r\nC:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345.png\r\n"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Running Python script to convert BSQ to PNG for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742444944245"}
+{"level":"info","message":"Python script stdout: Starting conversion for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742444944245\r\nPNG file created at: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345.png\r\nConversion completed successfully.\r\nC:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345.png\r\n"}
+{"level":"error","message":"PNG file was not created."}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"0":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\cbe6909471d06e19e3e3e6300","originalFilename":"20240528-113345/20240528-113345.bsq","size":8872961760},"1":{"filepath":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\cbe6909471d06e19e3e3e6301","originalFilename":"20240528-113345/20240528-113345.hdr","size":871},"level":"info","message":"Uploaded files:"}
+{"level":"info","message":"Moving .bsq file to:"}
+{"level":"info","message":".bsq file saved successfully at:"}
+{"level":"info","message":"Moving .hdr file to:"}
+{"level":"info","message":"Upload Time: 82.177 seconds, Size: 8872963037 bytes"}
+{"level":"info","message":"Python script stdout: Starting conversion for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742445615750\r\nPNG file created at: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345_1742445615750.png\r\nConversion completed successfully.\r\nC:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345_1742445615750.png\r\n"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Running Python script to convert BSQ to PNG for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742445615750"}
+{"level":"info","message":"Python script stdout: Starting conversion for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742445615750\r\nPNG file created at: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345_1742445615750.png\r\nConversion completed successfully.\r\nC:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345_1742445615750.png\r\n"}
+{"level":"error","message":"PNG file was not created."}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Running Python script to convert BSQ to PNG for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742445854156"}
+{"level":"info","message":"Python script stdout: Starting conversion for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742445854156\r\nPNG file created at: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345_1742445854156.png\r\nConversion completed successfully.\r\nC:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345_1742445854156.png\r\n"}
+{"level":"error","message":"PNG file was not created."}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Running Python script to convert BSQ to PNG for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742446271461"}
+{"level":"info","message":"Python script stdout: Starting conversion for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742446271461\r\nPNG file created at: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345_1742446271461.png\r\nConversion completed successfully.\r\nC:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345_1742446271461.png\r\n"}
+{"level":"error","message":"PNG file was not created."}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"Client connected to socket.io"}
+{"level":"info","message":"Client log:"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload Time: 0.001 seconds"}
+{"level":"info","message":"Upload Size: 8872962631 bytes"}
+{"level":"info","message":"Output Path: Starting conversion for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742501607103\r\nPNG file created at: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345_1742501607103.png\r\nConversion completed successfully.\r\nC:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345_1742501607103.png"}
+{"level":"info","message":"PNG Process Time: 37.989 seconds"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished in 54.425 seconds"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload Time: 54.425 seconds"}
+{"level":"info","message":"Upload Size: 8872962631 bytes"}
+{"level":"info","message":"Output Path: Starting conversion for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742502062009\r\nPNG file created at: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345_1742502062009.png\r\nConversion completed successfully.\r\nC:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345_1742502062009.png"}
+{"level":"info","message":"PNG Process Time: 38.372 seconds"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Folder upload finished in 54.124 seconds"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"PNG successfully generated"}
+{"level":"info","message":"Upload Time: 54.124 seconds"}
+{"level":"info","message":"Upload Size: 8872962631 bytes"}
+{"level":"info","message":"Output Path: Starting conversion for directory: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742502551353\r\nPNG file created at: C:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345_1742502551353.png\r\nConversion completed successfully.\r\nC:\\Users\\hiidk\\Documents\\Research\\website\\files\\pngs\\20240528-113345_1742502551353.png"}
+{"level":"info","message":"PNG Process Time: 40.29 seconds"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Upload directory already exists:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"error","message":"Error executing testcrop.py: Command failed: C:\\Users\\hiidk\\.conda\\envs\\research\\python.exe C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py --input_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742505472921\" --output_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\tiffs\" --coordinates 687 441 845 747 --timestamp 1742505472921\nTraceback (most recent call last):\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 205, in <module>\r\n    main()\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 72, in main\r\n    netG.load_state_dict(torch.load('Code_just_IR/saved_models/20_net_G.pth'))\r\n  File \"C:\\Users\\hiidk\\.conda\\envs\\research\\lib\\site-packages\\torch\\serialization.py\", line 1425, in load\r\n    with _open_file_like(f, \"rb\") as opened_file:\r\n  File \"C:\\Users\\hiidk\\.conda\\envs\\research\\lib\\site-packages\\torch\\serialization.py\", line 751, in _open_file_like\r\n    return _open_file(name_or_buffer, mode)\r\n  File \"C:\\Users\\hiidk\\.conda\\envs\\research\\lib\\site-packages\\torch\\serialization.py\", line 732, in __init__\r\n    super().__init__(open(name, mode))\r\nFileNotFoundError: [Errno 2] No such file or directory: 'Code_just_IR/saved_models/20_net_G.pth'\r\n"}
+{"level":"error","message":"Error executing testcrop.py: Command failed: C:\\Users\\hiidk\\.conda\\envs\\research\\python.exe C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py --input_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\20240528-113345_1742505472921\" --output_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\tiffs\" --coordinates 687 441 845 747 --timestamp 1742505472921\nTraceback (most recent call last):\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 205, in <module>\r\n    main()\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 72, in main\r\n    netG.load_state_dict(torch.load('Code_just_IR/saved_models/20_net_G.pth'))\r\n  File \"C:\\Users\\hiidk\\.conda\\envs\\research\\lib\\site-packages\\torch\\serialization.py\", line 1425, in load\r\n    with _open_file_like(f, \"rb\") as opened_file:\r\n  File \"C:\\Users\\hiidk\\.conda\\envs\\research\\lib\\site-packages\\torch\\serialization.py\", line 751, in _open_file_like\r\n    return _open_file(name_or_buffer, mode)\r\n  File \"C:\\Users\\hiidk\\.conda\\envs\\research\\lib\\site-packages\\torch\\serialization.py\", line 732, in __init__\r\n    super().__init__(open(name, mode))\r\nFileNotFoundError: [Errno 2] No such file or directory: 'Code_just_IR/saved_models/20_net_G.pth'\r\n"}
+{"level":"info","message":"Created BSQ directory:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"error","message":"Error executing testcrop.py: Command failed: C:\\Users\\hiidk\\.conda\\envs\\research\\python.exe C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py --input_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\BSQfiles\\20240528-113345_1742508497905\" --output_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\tiffs\" --coordinates 334 341 578 608 --timestamp 1742508497905\nTraceback (most recent call last):\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 232, in <module>\r\n    main()\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 173, in main\r\n    total_time += (time.time() - start_time)\r\nUnboundLocalError: local variable 'total_time' referenced before assignment\r\n"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"code":1002,"httpCode":500,"level":"error","message":"Error during form parsing: Request aborted","stack":"Error: Request aborted\n    at IncomingMessage.<anonymous> (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\formidable\\dist\\index.cjs:1223:21)\n    at IncomingMessage.emit (node:events:518:28)\n    at IncomingMessage._destroy (node:_http_incoming:221:10)\n    at _destroy (node:internal/streams/destroy:122:10)\n    at IncomingMessage.destroy (node:internal/streams/destroy:84:5)\n    at abortIncoming (node:_http_server:809:9)\n    at socketOnClose (node:_http_server:803:3)\n    at Socket.emit (node:events:530:35)\n    at TCP.<anonymous> (node:net:351:12)"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"code":1002,"httpCode":500,"level":"error","message":"Error during form parsing: Request aborted","stack":"Error: Request aborted\n    at IncomingMessage.<anonymous> (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\formidable\\dist\\index.cjs:1223:21)\n    at IncomingMessage.emit (node:events:518:28)\n    at IncomingMessage._destroy (node:_http_incoming:221:10)\n    at _destroy (node:internal/streams/destroy:122:10)\n    at IncomingMessage.destroy (node:internal/streams/destroy:84:5)\n    at abortIncoming (node:_http_server:809:9)\n    at socketOnClose (node:_http_server:803:3)\n    at Socket.emit (node:events:530:35)\n    at TCP.<anonymous> (node:net:351:12)"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"error","message":"Error executing testcrop.py: Command failed: C:\\Users\\hiidk\\.conda\\envs\\research\\python.exe C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py --input_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\BSQfiles\\20240528-113345_1742530815055\" --output_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\tiffs\" --coordinates 1868 1888 8991 9144 --timestamp 1742530815055 --folder_name 20240528-113345 --image_width 460.0018615722656 --image_height 340.0166015625\nTraceback (most recent call last):\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 226, in <module>\r\n    main()\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 200, in main\r\n    resized = cv2.resize(fhr, (fhr.shape[1] // scale, fhr.shape[0] // scale))\r\ncv2.error: OpenCV(4.11.0) D:\\a\\opencv-python\\opencv-python\\opencv\\modules\\imgproc\\src\\resize.cpp:4211: error: (-215:Assertion failed) inv_scale_x > 0 in function 'cv::resize'\r\n\r\n"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"error","message":"Error executing testcrop.py: Command failed: C:\\Users\\hiidk\\.conda\\envs\\research\\python.exe C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py --input_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\BSQfiles\\20240528-113345_1742532949014\" --output_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\tiffs\" --coordinates 184 51 10123 10083 --timestamp 1742532949014 --folder_name 20240528-113345 --image_width 460.0018615722656 --image_height 340.0166015625\nTraceback (most recent call last):\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 290, in <module>\r\n    main()\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 214, in main\r\n    num_iterations += 1\r\nUnboundLocalError: local variable 'num_iterations' referenced before assignment\r\n"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"error","message":"Error executing testcrop.py: Command failed: C:\\Users\\hiidk\\.conda\\envs\\research\\python.exe C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py --input_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\BSQfiles\\20240528-113345_1742533208062\" --output_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\tiffs\" --coordinates 337 378 9991 9868 --timestamp 1742533208062 --folder_name 20240528-113345 --image_width 460.0018615722656 --image_height 340.0166015625\nTraceback (most recent call last):\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 287, in <module>\r\n    main()\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 238, in main\r\n    output_base = f\"{opt.folder_name}_{opt.timestamp}_{int(orig_x1)}_{int(orig_y1)}_{int(orig_x2)}_{int(orig_y2)}\"\r\nNameError: name 'orig_x1' is not defined\r\n"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"error","message":"Error executing testcrop.py: Command failed: C:\\Users\\hiidk\\.conda\\envs\\research\\python.exe C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py --input_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\BSQfiles\\20240528-113345_1742598099560\" --output_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\tiffs\" --coordinates 776 888 4684 7164 --timestamp 1742598099560 --folder_name 20240528-113345 --image_width 460.0018615722656 --image_height 340.0166015625\nTraceback (most recent call last):\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 276, in <module>\r\n    main()\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 164, in main\r\n    raise ValueError(f\"Crop dimensions too small: {crop_width}x{crop_height}\")\r\nValueError: Crop dimensions too small: 0x0\r\n"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"error","message":"Error executing testcrop.py: Command failed: C:\\Users\\hiidk\\.conda\\envs\\research\\python.exe C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py --input_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\BSQfiles\\20240528-113345_1742598342541\" --output_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\tiffs\" --coordinates 1418 1551 6460 8399 --timestamp 1742598342541 --folder_name 20240528-113345 --image_width 460.0018615722656 --image_height 340.0166015625\nTraceback (most recent call last):\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 271, in <module>\r\n    main()\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 250, in main\r\n    tiff.write(level, photometric='rgb', compression='jpeg', tile=(256, 256), metadata={'axes': 'YXS'})\r\n  File \"C:\\Users\\hiidk\\.conda\\envs\\research\\lib\\site-packages\\tifffile\\tifffile.py\", line 2350, in write\r\n    raise ValueError(\r\nValueError: truncate cannot be used with compression, packints, or tiles\r\n"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"error","message":"Error executing testcrop.py: Command failed: C:\\Users\\hiidk\\.conda\\envs\\research\\python.exe C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py --input_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\BSQfiles\\20240528-113345_1742598540714\" --output_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\tiffs\" --coordinates 1357 1970 7572 8929 --timestamp 1742598540714 --folder_name 20240528-113345 --image_width 460.0018615722656 --image_height 340.0166015625\nC:\\Users\\hiidk\\.conda\\envs\\research\\lib\\site-packages\\tifffile\\tifffile.py:2357: UserWarning: <tifffile.TiffWriter '20240528-113345�70_7572_8929.tif'> writing zero-size array to nonconformant TIFF\r\n  warnings.warn(\r\nTraceback (most recent call last):\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 272, in <module>\r\n    main()\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 251, in main\r\n    tiff.write(level, photometric='rgb', subfiletype=1)\r\n  File \"C:\\Users\\hiidk\\.conda\\envs\\research\\lib\\site-packages\\tifffile\\tifffile.py\", line 2669, in write\r\n    if storedshape.samples > photometricsamples:\r\n  File \"C:\\Users\\hiidk\\.conda\\envs\\research\\lib\\site-packages\\tifffile\\tifffile.py\", line 15582, in samples\r\n    assert self.extrasamples < samples\r\nAssertionError\r\n"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"Error during form parsing: ENOENT: no such file or directory, open 'C:\\Users\\hiidk\\Documents\\Research\\website\\files\\BSQfiles\\30eb9c64a73d754094422c100'","path":"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\BSQfiles\\30eb9c64a73d754094422c100","stack":"Error: ENOENT: no such file or directory, open 'C:\\Users\\hiidk\\Documents\\Research\\website\\files\\BSQfiles\\30eb9c64a73d754094422c100'","syscall":"open"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"error","message":"Error executing testcrop.py: Command failed: C:\\Users\\hiidk\\.conda\\envs\\research\\python.exe C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py --input_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\BSQfiles\\20240528-113345_1742598815871\" --output_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\tiffs\" --coordinates 1021 1765 6950 8123 --timestamp 1742598815871 --folder_name 20240528-113345 --image_width 460.0018615722656 --image_height 340.0166015625\nTraceback (most recent call last):\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 278, in <module>\r\n    main()\r\n  File \"C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py\", line 265, in main\r\n    cv2.imwrite(png_path, cv2.cvtColor(fhr, cv2.COLOR_RGB2BGR))\r\ncv2.error: OpenCV(4.11.0) D:\\a\\opencv-python\\opencv-python\\opencv\\modules\\imgproc\\src\\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'\r\n\r\n"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"error","message":"Error executing testcrop.py: Command failed: C:\\Users\\hiidk\\.conda\\envs\\research\\python.exe C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py --input_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\BSQfiles\\20240528-113345_1742759781939\" --output_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\tiffs\" --coordinates 44 388 542 785 --timestamp 1742759781939 --folder_name 20240528-113345 --image_width 460.0018615722656 --image_height 340.0166015625\nusage: testcrop.py [-h] [--epoch EPOCH] [--n_epochs N_EPOCHS]\r\n                   [--dataset_name DATASET_NAME] [--batch_size BATCH_SIZE]\r\n                   [--lr LR] [--b1 B1] [--b2 B2] [--decay_epoch DECAY_EPOCH]\r\n                   [--n_cpu N_CPU] [--img_height IMG_HEIGHT]\r\n                   [--img_width IMG_WIDTH] [--channels CHANNELS]\r\n                   [--sample_interval SAMPLE_INTERVAL]\r\n                   [--checkpoint_interval CHECKPOINT_INTERVAL] --input_dir\r\n                   INPUT_DIR --output_dir OUTPUT_DIR --coordinates COORDINATES\r\n                   COORDINATES COORDINATES COORDINATES --timestamp TIMESTAMP\r\n                   --folder_name FOLDER_NAME [--image_width IMAGE_WIDTH]\r\n                   [--image_height IMAGE_HEIGHT] --server_url SERVER_URL\r\ntestcrop.py: error: the following arguments are required: --server_url\r\n"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Created directory:"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"error","message":"Error executing testcrop.py: Command failed: C:\\Users\\hiidk\\.conda\\envs\\research\\python.exe C:\\Users\\hiidk\\Documents\\Research\\website\\src\\testcrop.py --input_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\BSQfiles\\20240528-113345_1742760027176\" --output_dir \"C:\\Users\\hiidk\\Documents\\Research\\website\\files\\tiffs\" --coordinates 11 417 720 864 --timestamp 1742760027176 --folder_name 20240528-113345 --image_width 460.0018615722656 --image_height 340.0166015625\nusage: testcrop.py [-h] [--epoch EPOCH] [--n_epochs N_EPOCHS]\r\n                   [--dataset_name DATASET_NAME] [--batch_size BATCH_SIZE]\r\n                   [--lr LR] [--b1 B1] [--b2 B2] [--decay_epoch DECAY_EPOCH]\r\n                   [--n_cpu N_CPU] [--img_height IMG_HEIGHT]\r\n                   [--img_width IMG_WIDTH] [--channels CHANNELS]\r\n                   [--sample_interval SAMPLE_INTERVAL]\r\n                   [--checkpoint_interval CHECKPOINT_INTERVAL] --input_dir\r\n                   INPUT_DIR --output_dir OUTPUT_DIR --coordinates COORDINATES\r\n                   COORDINATES COORDINATES COORDINATES --timestamp TIMESTAMP\r\n                   --folder_name FOLDER_NAME [--image_width IMAGE_WIDTH]\r\n                   [--image_height IMAGE_HEIGHT] --server_url SERVER_URL\r\ntestcrop.py: error: the following arguments are required: --server_url\r\n"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"code":1002,"httpCode":500,"level":"error","message":"Error during form parsing: Request aborted","stack":"Error: Request aborted\n    at IncomingMessage.<anonymous> (C:\\Users\\hiidk\\Documents\\Research\\website\\node_modules\\formidable\\dist\\index.cjs:1223:21)\n    at IncomingMessage.emit (node:events:518:28)\n    at IncomingMessage._destroy (node:_http_incoming:221:10)\n    at _destroy (node:internal/streams/destroy:122:10)\n    at IncomingMessage.destroy (node:internal/streams/destroy:84:5)\n    at abortIncoming (node:_http_server:809:9)\n    at socketOnClose (node:_http_server:803:3)\n    at Socket.emit (node:events:530:35)\n    at TCP.<anonymous> (node:net:351:12)"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"Folder upload started"}
+{"level":"info","message":"Python script started"}
+{"level":"info","message":"Processing completed successfully"}
+{"level":"info","message":"Starting testcrop.py execution"}
+{"level":"info","message":"testcrop.py execution completed successfully"}
