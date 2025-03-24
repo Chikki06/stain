@@ -22,7 +22,7 @@ app.use(session({
 }));
 
 // Path to the specific Python executable
-const pythonExec = 'C:\\Users\\hiidk\\.conda\\envs\\research\\python.exe';
+const pythonExec = 'Python Exec Path'; // Replace with the path to your Python executable
 
 
 // Configure logger
@@ -35,7 +35,13 @@ const logger = winston.createLogger({
     ]
 });
 
-// Ensure all required directories exist
+// Directory structure:
+// ./files/
+//   ├── BSQfiles/    # Uploaded BSQ/HDR file pairs  
+//   ├── pngs/        # Initial PNG conversions
+//   ├── output-pngs/ # Processed PNG outputs 
+//   └── tiffs/      # Processed TIFF outputs
+
 const uploadDir = path.join(__dirname, '../files');
 const bsqDir = path.join(uploadDir, 'BSQfiles');
 const pngDir = path.join(uploadDir, 'pngs');
