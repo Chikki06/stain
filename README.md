@@ -48,6 +48,7 @@ website/
    ```bash
    conda env create -f environment.yml
    ```
+4. Upload your weights as src\saved_models\20_net_G.pth
 
 ## Usage
 
